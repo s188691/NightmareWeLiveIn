@@ -1,0 +1,46 @@
+﻿1. Intro to be developed actually
+2. Camera slightly comes from right to the balcony screen, player smokes cig, text dialogue comes up X
+    - balcony view - create X
+    - player smoke animation - create X
+    - player sprite without mask - create X
+    - dialogue to write X
+3. Player is prompted to move away from the balcony into the house @NOGO
+    - CTA icon to create X
+4. Update notification shown about quest log update X
+    - update notification to create X
+5. First quest: Plan your move with the help of city map in your office
+6. Open up the map and start the "intro" dialogue @TBC
+    - create map visual X
+    - create map canvas X
+    - create map individual arts in order to make them selectable @NOGO - Button system instead
+    - give dialogue on selection X
+7. Dissmiss all the other places (via Dialogue) than Location 1 - Mall X
+8. Complete quest 1 
+9. Prompt the player that quest log has been updated X
+    - make quest one marked as done
+10. Quest two to gather yourself before the trip 
+11. You need to collect the mask and flashlight
+    - make visuals for mask and flashlight in game
+    - make visual / description of the flashlight for backpack
+    - mask will be on face so not showing up in backpack
+12. Place flashlight in the corridor, mask in the kitchen
+13. After gathering the items prompt user about quest log update
+14. Done with quest nr 2, show quest nr 3 to the user which is go out to the mall
+15. Prompt user on the door to if he really wishes to leave house and proceed to the mall
+    - develop yes/no input system for dialogues
+16. Send user to new Scene
+
+
+To polish:
+- Give random places animation and dialogue
+    - frigde
+    - maybe sink
+    - flower pot
+    - photo frames
+    - diary
+    - bed
+
+To fix:
+- Quest log and Backpack visuals X
+- Proper backgroud layers X
+    - add foreground layer @nogo? TBC
